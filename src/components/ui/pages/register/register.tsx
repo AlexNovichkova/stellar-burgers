@@ -10,6 +10,7 @@ import { RegisterUIProps } from './type';
 
 export const RegisterUI: FC<RegisterUIProps> = ({
   errorText,
+
   email,
   setEmail,
   handleSubmit,
