@@ -20,7 +20,7 @@ interface OrderState {
   orders: TOrder[] | [];
 }
 
-const initialState: OrderState = {
+export const initialState: OrderState = {
   constructorItems: {
     bun: {
       _id: '',

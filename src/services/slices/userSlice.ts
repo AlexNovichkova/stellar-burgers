@@ -24,7 +24,7 @@ interface TRegisterData {
   password: string;
 }
 
-const initialState: UserState = {
+export const initialState: UserState = {
   isAuthChecked: false,
   isAuthenticated: false,
   user: {
