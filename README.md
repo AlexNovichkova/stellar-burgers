@@ -4,6 +4,9 @@
 
 **Stellar Burgers** — это космическая бургерная, где каждая форма жизни может заказать бургер своей мечты. Через веб-приложение пользователи могут собирать бургеры из ингредиентов, просматривать ленту заказов и управлять своим профилем. Приложение построено с использованием React, Redux, React Router и интеграции с API.
 
+<img width="657" alt="Stellar" src="https://github.com/user-attachments/assets/2adb8cfd-9c12-4a33-a1c6-0ee919299f82" />
+
+
 **Стек:** React, Redux, Node.js, TypeScript, Cypress, Jest
 
 ---
