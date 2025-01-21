@@ -31,7 +31,7 @@ export const refreshToken = (): Promise<TRefreshResponse> =>
         return Promise.reject(refreshData);
       }
       localStorage.setItem('refreshToken', refreshData.refreshToken);
-      setCookie('accessToken', refreshData.accessToken);
+      setCookie('refreshToken', refreshData.accessToken);
       return refreshData;
     });
 
